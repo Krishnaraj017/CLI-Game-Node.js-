@@ -4,6 +4,7 @@ This is a Node.js CLI game built with inquirer library where you get to answer a
 You win the game by answering all the questions correctly.
 
 Gameplay🎮
+
 You will be asked a series of multiple-choice questions about JavaScript.
 Answer each question correctly to proceed to the next one.
 If you answer a question incorrectly, you lose the game.
